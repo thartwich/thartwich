@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 📫 How to reach me **thomas.hartwich@proton.me**
+- 📫 How to reach me **thomas.hartwich-tw@gmx.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
